@@ -1,6 +1,6 @@
 # hello-world
 
-Hi!
+Hi Humans!
 
-I'm Andi and I just started my journey on programming. This is my first repository.
-I hope to build amazing projects in the future.
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
